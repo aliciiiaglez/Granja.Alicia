@@ -4,14 +4,16 @@ using UnityEngine;
 
 public class BotonesInt : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField]
+    Vector1 
+    [SerializeField]
+
+    public void 
     {
-        
+
     }
 
-    // Update is called once per frame
-    void Update()
+    public void 
     {
         
     }
